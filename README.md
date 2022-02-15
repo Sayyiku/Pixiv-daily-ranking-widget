@@ -15,10 +15,6 @@
 ## 开源地址
 [Github](https://github.com/mokeyjay/Pixiv-daily-ranking-widget)
 
-## 更新新地址使用
-添加侧边栏HTML控件, 内容(iframe请自行修改):
-服务地址：  <iframe src="https://fun.hujingnb.com/pixiv/i" frameborder="0"  style="width:300px; height:400px;" ></iframe>
-
 ## 如何部署
 ### 方案一：使用[超能小紫](https://www.mokeyjay.com)提供的服务
 > 感谢 [rixCloud](https://rixcloud.app/mokeyjay) 提供代理支持  
@@ -29,7 +25,7 @@
 以`Wordpress`为例，首先进入 后台 -> 外观 -> 小工具  
 向右边适当的位置添加一个 **文本** 或 **自定义HTML** 小工具，标题随意，内容为  
 ```html
-<iframe src="https://cloud.mokeyjay.com/pixiv" frameborder="0"  style="width:240px; height:380px;"></iframe>
+ <iframe src="https://fun.hujingnb.com/pixiv/i" frameborder="0"  style="width:300px; height:400px;" ></iframe>
 ```
 点击保存按钮即可回到博客首页预览效果咯~  
 如果你了解`CSS`的话，还可以随意修改`iframe`的`style`属性  
