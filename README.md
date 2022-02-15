@@ -15,6 +15,10 @@
 ## 开源地址
 [Github](https://github.com/mokeyjay/Pixiv-daily-ranking-widget)
 
+## 更新新地址使用
+添加侧边栏HTML控件, 内容(iframe请自行修改):
+服务地址：  <iframe src="https://fun.hujingnb.com/pixiv/i" frameborder="0"  style="width:300px; height:400px;" ></iframe>
+
 ## 如何部署
 ### 方案一：使用[超能小紫](https://www.mokeyjay.com)提供的服务
 > 感谢 [rixCloud](https://rixcloud.app/mokeyjay) 提供代理支持  
